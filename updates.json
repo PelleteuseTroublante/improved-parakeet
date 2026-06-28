@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "c411-mod@c411.local": {
+      "updates": [
+        {
+          "version": "0.2.0",
+          "update_link": "https://raw.githubusercontent.com/PelleteuseTroublante/improved-parakeet/main/c411-mod-0.2.0.xpi",
+          "update_hash": "sha256:eecfb7ef84d6a1d9dab0bbc281c03f59982ad2b3f980d5afed1e37bfeab94c5b"
+        }
+      ]
+    }
+  }
+}
