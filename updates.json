@@ -11,6 +11,11 @@
           "version": "0.2.1",
           "update_link": "https://raw.githubusercontent.com/PelleteuseTroublante/improved-parakeet/main/c411-mod-0.2.1.xpi",
           "update_hash": "sha256:ea73d641ae946caf0ceecddf3bf2e72641181b261401d91204387213bb89d789"
+        },
+        {
+          "version": "0.3.0",
+          "update_link": "https://raw.githubusercontent.com/PelleteuseTroublante/improved-parakeet/main/c411-mod-0.3.0.xpi",
+          "update_hash": "sha256:19905c39106a14d42fbb6227a51075db2b8a4d5c57c4ea064b9cdfa1d11a04d4"
         }
       ]
     }
